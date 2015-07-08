@@ -26,8 +26,8 @@ config.cloudProvider.secretAccessKey = '';
 **********************************************************/
 config.nuve = {};
 config.nuve.dataBaseURL = "localhost/nuvedb"; // default value: 'localhost/nuvedb'
-config.nuve.superserviceID = '55221287d951a92460d64a58'; // default value: ''
-config.nuve.superserviceKey = '5846'; // default value: ''
+config.nuve.superserviceID = ''; // our value: '55221287d951a92460d64a58'
+config.nuve.superserviceKey = ''; // our value: '5846'
 config.nuve.testErizoController = 'localhost:8080'; // default value: 'localhost:8080'
 
 /*********************************************************
