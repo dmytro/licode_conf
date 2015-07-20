@@ -1,0 +1,5 @@
+chef-client-running.pid 
+npm-debug.log
+chef-client-running.pid
+chef-stacktrace.out
+npm-debug.log
